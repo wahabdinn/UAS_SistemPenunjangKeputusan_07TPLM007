@@ -1,1 +1,4 @@
 # UAS_SistemPenunjangKeputusan_07TPLM007
+
+Wahabdin Sangadji
+181011401260
